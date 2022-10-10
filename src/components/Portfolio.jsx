@@ -1,7 +1,7 @@
 import React from 'react';
 import instagramclone from '../assets/portfolio/instagramclone.png';
 import recipeappreact from '../assets/portfolio/recipeappreact.png';
-import navbar from '../assets/portfolio/navbar.jpg';
+import weather from '../assets/portfolio/weather.png';
 import reactParallax from '../assets/portfolio/reactParallax.jpg';
 import reactSmooth from '../assets/portfolio/reactSmooth.jpg';
 import reactWeather from '../assets/portfolio/reactWeather.jpg';
@@ -24,7 +24,9 @@ const Portfolio = () => {
         },
         {
             id: 3,
-            src: navbar,
+            src: weather,
+            hrefdemo: 'https://glittering-blini-8c43e1.netlify.app/',
+            hrefcode: 'https://github.com/Sarikalikhar11/weather-app'
         },
         {
             id: 4,

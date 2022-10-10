@@ -44,7 +44,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: "/sarika3.pdf",
+            href: "/sarika3cv.pdf",
             target: "_blank",
             style: 'rounded-br-md',
             download: true,
