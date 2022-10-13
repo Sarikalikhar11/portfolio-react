@@ -2,7 +2,7 @@ import React from 'react';
 import instagramclone from '../assets/portfolio/instagramclone.png';
 import recipeappreact from '../assets/portfolio/recipeappreact.png';
 import weather from '../assets/portfolio/weather.png';
-import reactParallax from '../assets/portfolio/reactParallax.jpg';
+import landingpage from '../assets/portfolio/landingpage.png';
 import reactSmooth from '../assets/portfolio/reactSmooth.jpg';
 import reactWeather from '../assets/portfolio/reactWeather.jpg';
 
@@ -30,7 +30,9 @@ const Portfolio = () => {
         },
         {
             id: 4,
-            src: reactParallax,
+            src: landingpage,
+            hrefdemo: 'https://stirring-boba-962e82.netlify.app/',
+            hrefcode: 'https://github.com/Sarikalikhar11/landing-pageJS'
         },
         {
             id: 5,
